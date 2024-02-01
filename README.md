@@ -1,9 +1,9 @@
 
-![Hyperledger Sawtooth](https://raw.githubusercontent.com/hyperledger/sawtooth-core/master/images/sawtooth_logo_light_blue-small.png)
+![Sawtooth](https://raw.githubusercontent.com/splintercommunity/sawtooth-core/master/images/sawtooth_logo_light_blue-small.png)
 
-# Hyperledger Sawtooth SDK
+# Sawtooth SDK
 
-*Hyperledger Sawtooth* is an enterprise solution for building, deploying, and
+*Sawtooth* is an enterprise solution for building, deploying, and
 running distributed ledgers (also called blockchains). It provides an extremely
 modular and flexible platform for implementing transaction-based updates to
 shared state between untrusted parties coordinated by consensus algorithms.
@@ -25,7 +25,7 @@ manager for Cocoa applications.
 
 3. In the Cartfile for your project, add:
   ```
-  github "hyperledger/sawtooth-sdk-swift" "master"
+  github "splintercommunity/sawtooth-sdk-swift" "main"
   ```
 
 4. Run `carthage update`
@@ -84,11 +84,11 @@ To generate the Swift SDK documentation from source:
   ```
 
 For more information, please see the
-[Hyperledger Sawtooth documentation](https://sawtooth.hyperledger.org/docs/),
+[Sawtooth documentation](https://sawtooth.splinter.dev/),
 especially the
-[Application Developer's Guide](https://sawtooth.hyperledger.org/docs/core/releases/latest/app_developers_guide.html).
+[Application Developer's Guide](https://sawtooth.splinter.dev/docs/1.2/app_developers_guide/).
 
 License
 -------
-Hyperledger Sawtooth software is licensed under the
+Sawtooth software is licensed under the
 [Apache License Version 2.0](LICENSE) software license.
